@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ff9fdc6c-9979-4142-9c70-8ddccdb1f760</webElementGuid>
+      <webElementGuid>d7bec152-fccf-40dc-a548-e2ddccdf22eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/web/index.php/auth/logout</value>
-      <webElementGuid>aa02deeb-0708-4ea8-9a04-c62bdf66e53b</webElementGuid>
+      <webElementGuid>178d4f06-e663-46e3-8352-cd4093f29fa1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>a50acab6-d877-418c-b7e3-819b52450c26</webElementGuid>
+      <webElementGuid>9715b0fb-98b6-4be6-b29c-6a18acbbaeac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-userdropdown-link</value>
-      <webElementGuid>ac418cfe-d3b2-4ae0-b046-6b2321b3e26d</webElementGuid>
+      <webElementGuid>0da2c106-9841-46fe-be29-ba186bed3ad8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Logout</value>
-      <webElementGuid>b5297d5d-15b3-4cc9-ac51-03753026fdfe</webElementGuid>
+      <webElementGuid>0684f0a3-85ba-4bd3-8de5-7bacfdeaa9f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-header&quot;]/div[@class=&quot;oxd-topbar-header-userarea&quot;]/ul[1]/li[@class=&quot;--active oxd-userdropdown&quot;]/ul[@class=&quot;oxd-dropdown-menu&quot;]/li[4]/a[@class=&quot;oxd-userdropdown-link&quot;]</value>
-      <webElementGuid>c86ff1ac-0646-4149-8eac-72f6470a34be</webElementGuid>
+      <webElementGuid>0bc2035c-0136-4fa9-a077-da37461eded3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/header/div/div[2]/ul/li/ul/li[4]/a</value>
-      <webElementGuid>7b03dd61-1078-4061-b4eb-77d298ff05e4</webElementGuid>
+      <webElementGuid>1714293e-983a-4bb6-9bc4-739750cae6f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Logout')]</value>
-      <webElementGuid>7d4d0738-a553-485b-aeea-12561fe176db</webElementGuid>
+      <webElementGuid>8550641b-f60e-4a3d-af1a-dde15cbad9dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/following::a[1]</value>
-      <webElementGuid>ccd642db-48c7-4092-becb-274e0f49b025</webElementGuid>
+      <webElementGuid>e1efb122-7e79-4b1f-9e21-b9f729ac1837</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Support'])[1]/following::a[2]</value>
-      <webElementGuid>5e3d9971-f309-413d-a6a1-297476d1aa38</webElementGuid>
+      <webElementGuid>8dbd4154-cece-4d8a-b3d8-9efa72b8d877</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
-      <webElementGuid>582c6167-90f9-4812-905e-fc9759aa20e7</webElementGuid>
+      <webElementGuid>eaae0922-643b-481a-a707-013a93de08a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/web/index.php/auth/logout')]</value>
-      <webElementGuid>6c2ca41d-992c-4416-8370-50cdca2a39d4</webElementGuid>
+      <webElementGuid>da855564-d423-46f5-985c-b6d6f2876aed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/ul/li[4]/a</value>
-      <webElementGuid>f71189a5-74ff-4cce-96e9-2d9788aa1a50</webElementGuid>
+      <webElementGuid>c3772da8-48f0-48bc-a0f7-f76856d1dec3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/web/index.php/auth/logout' and (text() = 'Logout' or . = 'Logout')]</value>
-      <webElementGuid>dfa3f22b-1290-42e6-a61e-8b8c27a84b4c</webElementGuid>
+      <webElementGuid>b347a7a5-593c-4f79-828a-20eae819b066</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
