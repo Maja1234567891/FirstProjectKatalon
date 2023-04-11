@@ -32,4 +32,3 @@ WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/p_first last'))
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Logout'))
 
 WebUI.closeBrowser()
-
