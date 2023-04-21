@@ -1,3 +1,64 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_OrangeHRM/input_Username_username",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@name\u003d\u0027username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_OrangeHRM/input_Username_username_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_OrangeHRM/input_Username_oxd-input oxd-input--focus",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div[2]/div[2]/div/div/div[2]/form/div/div/div/div/div[2]/input",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_OrangeHRM/input_Username_oxd-input oxd-input--focus_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_OrangeHRM/p_firstAdministrator Bush",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div/header/div/div[2]/ul/li/span/p",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//p",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_OrangeHRM/p_firstAdministrator Bush_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/New Folder/Page_OrangeHRM/div_SuccessSuccessfully Saved",
+      "brokenLocator": "//div[@id\u003d\u0027oxd-toaster_1\u0027]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div[2]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/New Folder (4)/Page_OrangeHRM/div_SuccessSuccessfully Saved",
+      "brokenLocator": "//div[@id\u003d\u0027oxd-toaster_1\u0027]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div[2]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/New Folder (6)/Page_OrangeHRM/div_SuccessSuccessfully Saved",
+      "brokenLocator": "//div[@id\u003d\u0027oxd-toaster_1\u0027]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div[2]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
 }

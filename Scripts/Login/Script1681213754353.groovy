@@ -27,9 +27,11 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_Pa
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/p_firstAdministrator Bush'))
+WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/p_Sultan Deodhe'))
 
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Logout'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_OrangeHRM/a_Logout'), 20)
 
-WebUI.closeBrowser()
+
+
+
 
