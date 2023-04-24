@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>AdminPage</name>
+   <name>ValidationOnLogin</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,33 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>3fba2a5a-66cc-44f3-b656-c9c0bcdac1fb</testSuiteGuid>
+   <testSuiteGuid>e809ec27-668f-4991-980e-72baf4096e89</testSuiteGuid>
    <testCaseLink>
-      <guid>8086e061-f2b2-4a05-9173-66a50bddd9db</guid>
+      <guid>635208a8-f8db-4aa3-a689-f6e874bd7358</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/ResetSearchAdmin</testCaseId>
+      <testCaseId>Test Cases/ValidationIsPresentForRestPassword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c2a1ead0-6350-4722-9924-911aea8055ca</guid>
+      <guid>a1096466-fa21-4a11-95ee-5997d3697a73</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchForUserOnAdmin</testCaseId>
+      <testCaseId>Test Cases/VerifyLoginValidationForPassword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>efa9dec2-3a8e-480f-a538-7054182793ae</guid>
+      <guid>4bbe87b7-09e9-402a-af48-235856b160ad</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/OpenAdminPageFromSupport</testCaseId>
+      <testCaseId>Test Cases/VerifyLoginValidationForUsername</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>58851ab5-ff25-4115-b1b9-e392326f4386</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/VerifyPasswordIsRequiredAdministrator</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

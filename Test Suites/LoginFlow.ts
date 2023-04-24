@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>AdminPage</name>
+   <name>LoginFlow</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>3fba2a5a-66cc-44f3-b656-c9c0bcdac1fb</testSuiteGuid>
+   <testSuiteGuid>6c5590a6-900c-4f3b-92e2-f33a5f03691a</testSuiteGuid>
    <testCaseLink>
-      <guid>8086e061-f2b2-4a05-9173-66a50bddd9db</guid>
+      <guid>05580dab-4568-4617-983a-c81e164689f7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/ResetSearchAdmin</testCaseId>
+      <testCaseId>Test Cases/Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c2a1ead0-6350-4722-9924-911aea8055ca</guid>
+      <guid>d5bc4912-5ff8-4be5-8f66-16e8f725cb1e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchForUserOnAdmin</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>efa9dec2-3a8e-480f-a538-7054182793ae</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/OpenAdminPageFromSupport</testCaseId>
+      <testCaseId>Test Cases/Logout</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

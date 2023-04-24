@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>AdminPage</name>
+   <name>ValidationForResetPassword</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>3fba2a5a-66cc-44f3-b656-c9c0bcdac1fb</testSuiteGuid>
+   <testSuiteGuid>f93d3b65-fd7d-44b6-8501-e8fddbaed8fd</testSuiteGuid>
    <testCaseLink>
-      <guid>8086e061-f2b2-4a05-9173-66a50bddd9db</guid>
+      <guid>b5a7f40a-0af7-4f91-8256-f949229028f0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/ResetSearchAdmin</testCaseId>
+      <testCaseId>Test Cases/ValidationIsPresentForRestPassword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c2a1ead0-6350-4722-9924-911aea8055ca</guid>
+      <guid>ab41d01e-1330-46ef-990f-0c831b35c2ed</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchForUserOnAdmin</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>efa9dec2-3a8e-480f-a538-7054182793ae</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/OpenAdminPageFromSupport</testCaseId>
+      <testCaseId>Test Cases/VerifyPasswordIsRequiredAdministrator</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

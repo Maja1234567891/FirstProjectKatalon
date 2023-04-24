@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>AdminPage</name>
+   <name>NegativeTCForAdministrator</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>3fba2a5a-66cc-44f3-b656-c9c0bcdac1fb</testSuiteGuid>
+   <testSuiteGuid>546e3836-e2f3-462c-9be3-e80fc8327336</testSuiteGuid>
    <testCaseLink>
-      <guid>8086e061-f2b2-4a05-9173-66a50bddd9db</guid>
+      <guid>2333ddb9-3173-4d84-8f79-372187d99743</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/ResetSearchAdmin</testCaseId>
+      <testCaseId>Test Cases/LoginAdministratorWithInvalidCredentials</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c2a1ead0-6350-4722-9924-911aea8055ca</guid>
+      <guid>ce8bb6eb-e934-4e73-bef5-51d426f542a3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchForUserOnAdmin</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>efa9dec2-3a8e-480f-a538-7054182793ae</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/OpenAdminPageFromSupport</testCaseId>
+      <testCaseId>Test Cases/LoginAdministratorWuthValidCredentials</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

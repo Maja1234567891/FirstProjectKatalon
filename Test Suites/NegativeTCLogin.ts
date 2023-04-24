@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>AdminPage</name>
+   <name>NegativeTCLogin</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,33 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>3fba2a5a-66cc-44f3-b656-c9c0bcdac1fb</testSuiteGuid>
+   <testSuiteGuid>a0e865d7-31e7-4f4e-8da4-a3f0c86b6c9d</testSuiteGuid>
    <testCaseLink>
-      <guid>8086e061-f2b2-4a05-9173-66a50bddd9db</guid>
+      <guid>0ffdd47c-8cfe-4c53-a0e8-460c455c6eb2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/ResetSearchAdmin</testCaseId>
+      <testCaseId>Test Cases/LogingWithInvalidPassword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c2a1ead0-6350-4722-9924-911aea8055ca</guid>
+      <guid>5740ddee-2177-45bc-944d-63bb5bcd5a94</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchForUserOnAdmin</testCaseId>
+      <testCaseId>Test Cases/LoginWithInvalidUsename</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>efa9dec2-3a8e-480f-a538-7054182793ae</guid>
+      <guid>9573c869-42be-4bb6-acb7-43fe718ea206</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/OpenAdminPageFromSupport</testCaseId>
+      <testCaseId>Test Cases/LoginInputFieldsValidation</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0cfac502-94e2-40f0-9eef-aa4669dca42a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LoginWithInvalidCredentials</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
