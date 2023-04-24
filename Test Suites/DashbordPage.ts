@@ -22,35 +22,35 @@
       <guid>50c2b310-893c-435c-9868-118b8cf16462</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AccessMyReviewsViaDashborad</testCaseId>
+      <testCaseId>Test Cases/AccessMyReviewsViaDashboradPage</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>9d2f9069-8116-4520-a46c-8352a5f4d40b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AccessTimesheetViaDashboard</testCaseId>
+      <testCaseId>Test Cases/AccessTimesheetViaDashboardPage</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>b1c6fade-1dcb-417c-8300-63af7ab62fa1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AccessTimeTabViaWatch</testCaseId>
+      <testCaseId>Test Cases/AccessTimeTabViaWatchOnDashboard</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>35b41c57-0081-472f-80c7-74cad4b78989</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AccsessRecruitmentViaDashboard</testCaseId>
+      <testCaseId>Test Cases/AccsessRecruitmentViaDashboardPage</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>f91db86f-0bf7-4b2d-8365-5c0849d45d4f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/BuzzPageCanBeAccessed</testCaseId>
+      <testCaseId>Test Cases/BuzzPageCanBeAccessedViaDashboard</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

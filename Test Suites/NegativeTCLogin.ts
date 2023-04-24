@@ -15,14 +15,14 @@
       <guid>0ffdd47c-8cfe-4c53-a0e8-460c455c6eb2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LogingWithInvalidPassword</testCaseId>
+      <testCaseId>Test Cases/LoginWithInvalidPassword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>5740ddee-2177-45bc-944d-63bb5bcd5a94</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginWithInvalidUsename</testCaseId>
+      <testCaseId>Test Cases/LoginWithInvalidUseName</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

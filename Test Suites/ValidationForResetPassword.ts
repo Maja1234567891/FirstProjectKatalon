@@ -15,14 +15,14 @@
       <guid>b5a7f40a-0af7-4f91-8256-f949229028f0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/ValidationIsPresentForRestPassword</testCaseId>
+      <testCaseId>Test Cases/ValidationForRestPassword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>ab41d01e-1330-46ef-990f-0c831b35c2ed</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/VerifyPasswordIsRequiredAdministrator</testCaseId>
+      <testCaseId>Test Cases/PasswordIsRequiredAdministratorValidation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

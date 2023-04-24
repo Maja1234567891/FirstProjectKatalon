@@ -15,14 +15,14 @@
       <guid>2333ddb9-3173-4d84-8f79-372187d99743</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginAdministratorWithInvalidCredentials</testCaseId>
+      <testCaseId>Test Cases/LoginAdministratorWithInvalidCredential</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>ce8bb6eb-e934-4e73-bef5-51d426f542a3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/LoginAdministratorWuthValidCredentials</testCaseId>
+      <testCaseId>Test Cases/LoginAdministratorWithValidCredentials</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
